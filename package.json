@@ -10,7 +10,8 @@
   },
   "dependencies": {
     "serverless": "^1.83.2",
-    "serverless-stack-output": "^0.2.3"
+    "serverless-stack-output": "^0.2.3",
+    "serverless-python-requirements" : "^5.1.0"
   },
   "devDependencies": {
     "serverless-offline-python": "^3.22.2"
