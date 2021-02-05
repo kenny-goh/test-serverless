@@ -1,0 +1,14 @@
+node_modules
+build
+npm-debug.log
+.env
+.serverless/
+.eslintcache
+.npm
+logs
+*.log
+./stack.json
+package-lock.json
+.idea/
+__pycache__/
+src/__pycache__/
