@@ -1,6 +1,7 @@
 import json
 
 def hello(event, context):
+
     body = {
         "message": "Testing 123",
         "input": event
